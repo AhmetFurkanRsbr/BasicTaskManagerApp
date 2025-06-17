@@ -1,0 +1,2 @@
+CPU Kullanımı: 24.3638%
+Bellek Kullanımı: 75.6865% (12208 MB)

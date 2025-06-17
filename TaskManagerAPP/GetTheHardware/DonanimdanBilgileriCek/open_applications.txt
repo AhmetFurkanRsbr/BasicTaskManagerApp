@@ -1,0 +1,44 @@
+Uygulama Adı: DonanimdanBilgileriCek - Microsoft Visual Studio
+Process Adı: devenv.exe
+Process ID: 12220
+-----------------------------------
+Uygulama Adı: Ayarlar
+Process Adı: ApplicationFrameHost.exe
+Process ID: 17360
+-----------------------------------
+Uygulama Adı: Program Manager
+Process Adı: Explorer.EXE
+Process ID: 18912
+-----------------------------------
+Uygulama Adı: Görev Yöneticisi
+Process Adı: <bilinmiyor>
+Process ID: 21496
+-----------------------------------
+Uygulama Adı: TaskManagerAPPIsletimSistemleri – GraphPanel.java
+Process Adı: idea64.exe
+Process ID: 30492
+-----------------------------------
+Uygulama Adı: Ayarlar
+Process Adı: SystemSettings.exe
+Process ID: 31856
+-----------------------------------
+Uygulama Adı: Spotify Free
+Process Adı: Spotify.exe
+Process ID: 34148
+-----------------------------------
+Uygulama Adı: Windows Giriş Deneyimi
+Process Adı: TextInputHost.exe
+Process ID: 35516
+-----------------------------------
+Uygulama Adı: C:\Users\HP\Desktop\İşletim Sistemleri Proje\Proje\TaskManagerAPPIsletimSistemleri\GetTheHardware\x64\Debug\DonanimdanBilgileriCek.exe
+Process Adı: WindowsTerminal.exe
+Process ID: 39760
+-----------------------------------
+Uygulama Adı: NVIDIA GeForce Overlay
+Process Adı: NVIDIA Share.exe
+Process ID: 41752
+-----------------------------------
+Uygulama Adı: iTop VPN Mini
+Process Adı: <bilinmiyor>
+Process ID: 42124
+-----------------------------------
